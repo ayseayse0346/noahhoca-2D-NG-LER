@@ -63,7 +63,6 @@ sayı2 = +prompt ("0-100 arasında bir sayı giriniz:")
 
 console.log("girilen sayı:",sayı2);
 
-// ! DO WHİLE : en azından bir kere çaılıştırır.
 
 
 
